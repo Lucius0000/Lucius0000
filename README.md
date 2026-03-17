@@ -7,6 +7,13 @@
 - SQL
 - HTML
 
+## 🤖 AI Tools
+
+- PyTorch
+- Codex / Cursor
+- OpenAI SDK
+- Openclaw
+
 ## 🎯 Interests
 
 - Machine Learning
